@@ -1,13 +1,13 @@
-# Hello! I'm Harris Midtimbang Angkua.
+Hello! I'm Harris Midtimbang Angkua.
 
-I'm currently a third-year student who wants to be a full-stack developer and is actively gaining knowledge about machine learning. I'm a technology enthusiast who loves to learn every day and would love to learn with others.<br>
-My passions include full-stack development, problem-solving, and turning ideas into real-world applications.
+I'm currently a fourth-year student working toward becoming a full-stack developer. I've been embracing AI-assisted development and am actively studying system architecture and system design — using LLMs to move faster while still keeping the quality of what I ship high. I'm a technology enthusiast who loves to learn every day and would love to learn with others.<br>
+My passions include full-stack development, AI-assisted engineering, and turning ideas into real-world applications.
 
 ---
 
 ## 📬 How to Reach Me / 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/your-facebook-profile](https://www.facebook.com/Lil.Filipino.Rapper.16))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Lil.Filipino.Rapper.16)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@your-tiktok-username)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/your-youtube-channel)
 [![Portfolio (Under Development)](https://img.shields.io/badge/Portfolio-Work%20in%20Progress-blueviolet?style=for-the-badge)](#)
